@@ -1,0 +1,15 @@
+C:\workspace\DESAFIOS DIO\Dio.Musicas\bin\Debug\net6.0\Dio.Musicas.exe
+C:\workspace\DESAFIOS DIO\Dio.Musicas\bin\Debug\net6.0\Dio.Musicas.deps.json
+C:\workspace\DESAFIOS DIO\Dio.Musicas\bin\Debug\net6.0\Dio.Musicas.runtimeconfig.json
+C:\workspace\DESAFIOS DIO\Dio.Musicas\bin\Debug\net6.0\Dio.Musicas.dll
+C:\workspace\DESAFIOS DIO\Dio.Musicas\bin\Debug\net6.0\ref\Dio.Musicas.dll
+C:\workspace\DESAFIOS DIO\Dio.Musicas\bin\Debug\net6.0\Dio.Musicas.pdb
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\Dio.Musicas.csproj.AssemblyReference.cache
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\Dio.Musicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\Dio.Musicas.AssemblyInfoInputs.cache
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\Dio.Musicas.AssemblyInfo.cs
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\Dio.Musicas.csproj.CoreCompileInputs.cache
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\Dio.Musicas.dll
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\ref\Dio.Musicas.dll
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\Dio.Musicas.pdb
+C:\workspace\DESAFIOS DIO\Dio.Musicas\obj\Debug\net6.0\Dio.Musicas.genruntimeconfig.cache
